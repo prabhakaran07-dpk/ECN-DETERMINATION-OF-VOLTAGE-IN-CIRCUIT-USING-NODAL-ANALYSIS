@@ -36,6 +36,17 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+   
+## **OBSERVATION TABLE: NODAL ANALYSIS**
+
+| RPS (Volts) | Theoretical Value: $V_A$ (V) | Theoretical Value: $V_B$ (V) | Theoretical Value: $V_A - V_B$ (V) | Practical Value: $V_A$ (V) | Practical Value: $V_B$ (V) | Practical Value: $V_A - V_B$ (V) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2 | 0.65 | 0.2 | 0.45 | 0.67 | 0.2 | 0.47 |
+| 4 | 1.27 | 0.37 | 0.90 | 1.33 | 0.39 | 0.94 |
+| 6 | 1.91 | 0.55 | 1.35 | 2.0 | 0.58 | 1.41 |
+| 8 | 2.6 | 0.8 | 1.8 | 2.64 | 0.77 | 1.87 |
+
+
 ## **RESULT:**
 
 Thus, the Nodal analysis is verified practically and theoretically. The resultant voltages for<mark>4	V</mark> supply are:
